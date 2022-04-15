@@ -1,1 +1,1 @@
-# drawing-app
+# Vanilla JavaScript Drawing App
